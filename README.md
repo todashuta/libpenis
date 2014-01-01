@@ -12,7 +12,7 @@ if (a == b)
     printf("Success!\n");
 ```
 
-penis.js comparing:
+libpenis comparing:
 ```C
 set_balls(1);
 set_dick_head(1);
